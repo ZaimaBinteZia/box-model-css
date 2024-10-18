@@ -1,0 +1,11 @@
+body {
+    border: 1px solid;
+}
+
+div {
+    padding: 100px;
+    background-color: rgb(219, 217, 143);
+    text-align: center;
+    margin: 50px;
+    border: 3px solid;
+}
